@@ -5,3 +5,5 @@
 acandtip.nodynwords = false
 
 keymap[ID.AUTOCOMPLETE] = "Ctrl-Space"
+
+editor.endatlastline = false
